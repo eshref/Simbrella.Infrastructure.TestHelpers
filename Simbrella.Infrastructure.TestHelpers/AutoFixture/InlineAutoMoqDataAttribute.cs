@@ -4,7 +4,7 @@ using AutoFixture;
 using AutoFixture.Xunit2;
 
 
-namespace Simbrella.LoanManagement.TestHelpers.AutoFixture
+namespace Simbrella.Infrastructure.TestHelpers.AutoFixture
 {
     public class InlineAutoMoqDataAttribute : InlineAutoDataAttribute
     {

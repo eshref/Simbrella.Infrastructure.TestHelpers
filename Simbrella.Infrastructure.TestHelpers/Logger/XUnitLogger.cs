@@ -7,7 +7,7 @@ using Microsoft.Extensions.Logging;
 using Xunit.Abstractions;
 
 
-namespace Simbrella.LoanManagement.TestHelpers.Logger
+namespace Simbrella.Infrastructure.TestHelpers.Logger
 {
     class XUnitLogger<T> : XUnitLogger, ILogger<T>
     {

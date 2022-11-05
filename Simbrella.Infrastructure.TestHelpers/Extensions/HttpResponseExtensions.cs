@@ -7,7 +7,7 @@ using Microsoft.AspNetCore.Mvc;
 using Xunit;
 
 
-namespace Simbrella.LoanManagement.TestHelpers.Extensions
+namespace Simbrella.Infrastructure.TestHelpers.Extensions
 {
     public static class HttpResponseExtensions
     {

@@ -3,7 +3,7 @@ using System.Collections.Specialized;
 using System.Web;
 
 
-namespace Simbrella.LoanManagement.TestHelpers.Utils
+namespace Simbrella.Infrastructure.TestHelpers.Utils
 {
     public static class UriUtils
     {

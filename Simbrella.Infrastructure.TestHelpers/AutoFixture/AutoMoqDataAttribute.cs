@@ -5,7 +5,7 @@ using AutoFixture.AutoMoq;
 using AutoFixture.Xunit2;
 
 
-namespace Simbrella.LoanManagement.TestHelpers.AutoFixture
+namespace Simbrella.Infrastructure.TestHelpers.AutoFixture
 {
     internal class AutoMoqDataAttribute : AutoDataAttribute
     {

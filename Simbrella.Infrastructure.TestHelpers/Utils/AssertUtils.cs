@@ -6,7 +6,7 @@ using AutoFixture;
 using FluentAssertions;
 
 
-namespace Simbrella.LoanManagement.TestHelpers.Utils
+namespace Simbrella.Infrastructure.TestHelpers.Utils
 {
     public static class AssertUtils
     {

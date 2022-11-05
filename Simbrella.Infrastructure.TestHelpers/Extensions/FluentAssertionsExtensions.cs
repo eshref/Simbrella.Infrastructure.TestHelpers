@@ -6,7 +6,7 @@ using FluentAssertions;
 using FluentAssertions.Equivalency;
 
 
-namespace Simbrella.LoanManagement.TestHelpers.Extensions
+namespace Simbrella.Infrastructure.TestHelpers.Extensions
 {
     public static class FluentAssertionsExtensions
     {

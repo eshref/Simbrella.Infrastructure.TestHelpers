@@ -2,7 +2,7 @@
 using System.Threading.Tasks;
 
 
-namespace Simbrella.LoanManagement.TestHelpers.Utils
+namespace Simbrella.Infrastructure.TestHelpers.Utils
 {
     public static class ConversionUtils
     {

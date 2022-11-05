@@ -12,7 +12,7 @@ using Moq.Protected;
 using Newtonsoft.Json;
 
 
-namespace Simbrella.LoanManagement.TestHelpers.Extensions
+namespace Simbrella.Infrastructure.TestHelpers.Extensions
 {
     public static class MockHttpHandlerExtensions
     {

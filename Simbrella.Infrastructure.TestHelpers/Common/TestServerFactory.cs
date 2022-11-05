@@ -7,12 +7,12 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 
-using Simbrella.LoanManagement.TestHelpers.Logger;
+using Simbrella.Infrastructure.TestHelpers.Logger;
 
 using Xunit.Abstractions;
 
 
-namespace Simbrella.LoanManagement.TestHelpers.Common
+namespace Simbrella.Infrastructure.TestHelpers.Common
 {
     public static class TestServerFactory
     {
