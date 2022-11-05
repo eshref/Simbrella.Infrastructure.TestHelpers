@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.32510.428
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Simbrella.LoanManagement.TestHelpers", "Simbrella.LoanManagement.TestHelpers\Simbrella.LoanManagement.TestHelpers.csproj", "{EC42BC7C-DE79-4B8B-B025-21651DF3B72F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Simbrella.Infrastructure.TestHelpers", "Simbrella.Infrastructure.TestHelpers\Simbrella.Infrastructure.TestHelpers.csproj", "{EC42BC7C-DE79-4B8B-B025-21651DF3B72F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
